@@ -1,1 +1,6 @@
 some content in new file
+
+
+content added from developer 2
+
+
