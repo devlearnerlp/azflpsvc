@@ -1,6 +1,7 @@
 some content in new file
 
 
+content added by the developer 1
+
+
 content added from developer 2
-
-
